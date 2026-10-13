@@ -5,8 +5,8 @@ Página de apresentação e vendas responsiva em português, com HTML, CSS e Jav
 - Site: arquivos em `dist/`.
 - Copy curta aplicada ao site, baseada nas dúvidas do público: `copy/copy-curta.md`.
 - Material inicial, três headlines, roteiro de vídeo e order bump: `copy/copy-completa.md`.
-- Preço do produto: R$ 5, pagamento único.
-- O jogo acompanha um vídeo de instalação, conforme confirmado pelo responsável.
+- Preço do produto: R$ 5, pagamento único. A oferta apresenta o preço de referência de R$ 29,90 fornecido pelo responsável e economia de R$ 24,90 (83%, arredondado).
+- O jogo acompanha um vídeo de instalação, conforme confirmado pelo responsável. A nova copy da oferta inclui ajuda na instalação e entrega por e-mail; os fluxos precisam ser configurados pelo responsável no checkout.
 - Adicional exclusivo do checkout: entrega imediata do acesso pelo WhatsApp, R$ 3. A página apresenta “Receba no WhatsApp” com identificação de adicional opcional no checkout.
 
 ## Configurar os dados reais

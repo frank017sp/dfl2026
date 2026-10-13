@@ -46,12 +46,32 @@ Não. O acesso custa R$ 5, pagos uma única vez.
 A narração é em português do Brasil. O idioma dos menus pode variar conforme a versão.
 
 ## Oferta
+**DFL 2026 · Acesso digital**
+
 **PARTIU JOGAR?**
 
+De ~~R$ 29,90~~ por apenas
+
 **R$ 5,00**
-Uma vez só. Sem mensalidade.
+
+**Economize R$ 24,90 · -83%**
+
+Pagamento único. Sem mensalidade.
+
+**O que você recebe**
+
+- **Jogo completo** pra Android, pronto pra instalar
+- **Todas as ligas** e elencos 2026
+- **Narração em português** do Brasil
+- **Carreira e Rumo ao Estrelato** pra jogar offline
+- **Roda até em Android simples** (desempenho varia)
+- **Arquivo direto,** sem encurtador e sem anúncio
+- **Passo a passo** de instalação e ajuda se travar
 
 **BORA JOGAR POR R$ 5**
+
+**Pagou, chegou: receba no seu e-mail ou WhatsApp.**
+WhatsApp disponível como adicional opcional no checkout.
 
 Condições de entrega e reembolso informadas antes do pagamento.
 
@@ -62,4 +82,4 @@ O desejo pelo jogo já aparece nos comentários. A página concentra a atenção
 
 Não há ficha técnica nem números de Android, RAM ou armazenamento na página. Também não há barra fixa inferior, navegação no topo, botão no cabeçalho, blocos longos de persuasão ou promessas de compatibilidade universal.
 
-A VSL fornecida pelo responsável está incorporada em formato quadrado 1:1. Os botões usam a mesma chamada. A linha de bullets abaixo da VSL foi removida para aproximar o botão do vídeo. O FAQ informa que o jogo inclui um vídeo de instalação, conforme confirmado pelo responsável. O checkout segue pendente. A entrega padrão será especificada quando o responsável informar o canal real. A página inclui a chamada “Receba no WhatsApp”, identificada como adicional opcional no checkout. Não promete suporte individual.
+A VSL fornecida pelo responsável está incorporada em formato quadrado 1:1. Os botões usam a mesma chamada. A linha de bullets abaixo da VSL foi removida para aproximar o botão do vídeo. O FAQ informa que o jogo inclui um vídeo de instalação, conforme confirmado pelo responsável. O checkout segue pendente. A nova oferta fornecida pelo responsável informa entrega por e-mail e ajuda na instalação; a operação de entrega e suporte precisa estar configurada no provedor de checkout. A página inclui a chamada “Receba no WhatsApp”, identificada como adicional opcional no checkout. A oferta usa o preço de referência de R$ 29,90 informado pelo responsável; R$ 24,90 de economia equivalem a aproximadamente 83% de desconto.
