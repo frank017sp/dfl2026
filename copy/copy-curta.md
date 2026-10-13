@@ -10,7 +10,7 @@ Carreira e Rumo ao Estrelato pra jogar offline.
 
 [VSL quadrada em destaque — player LiteVideo fornecido pelo responsável.]
 
-**BORA JOGAR POR R$ 5**
+**Baixar agora**
 
 Uma vez só. Sem mensalidade.
 
@@ -68,7 +68,7 @@ Pagamento único. Sem mensalidade.
 - **Arquivo direto,** sem encurtador e sem anúncio
 - **Passo a passo** de instalação e ajuda se travar
 
-**BORA JOGAR POR R$ 5**
+**Baixar agora**
 
 **Pagou, chegou: receba no seu e-mail ou WhatsApp.**
 WhatsApp disponível como adicional opcional no checkout.
@@ -82,4 +82,4 @@ O desejo pelo jogo já aparece nos comentários. A página concentra a atenção
 
 Não há ficha técnica nem números de Android, RAM ou armazenamento na página. Também não há barra fixa inferior, navegação no topo, botão no cabeçalho, blocos longos de persuasão ou promessas de compatibilidade universal.
 
-A VSL fornecida pelo responsável está incorporada em formato quadrado 1:1. Os botões usam a mesma chamada. A linha de bullets abaixo da VSL foi removida para aproximar o botão do vídeo. O FAQ informa que o jogo inclui um vídeo de instalação, conforme confirmado pelo responsável. O checkout segue pendente. A nova oferta fornecida pelo responsável informa entrega por e-mail e ajuda na instalação; a operação de entrega e suporte precisa estar configurada no provedor de checkout. A página inclui a chamada “Receba no WhatsApp”, identificada como adicional opcional no checkout. A oferta usa o preço de referência de R$ 29,90 informado pelo responsável; R$ 24,90 de economia equivalem a aproximadamente 83% de desconto.
+A VSL fornecida pelo responsável está incorporada em formato quadrado 1:1. Os dois botões usam “Baixar agora”, com texto centralizado e sem preço ou seta. A linha de bullets abaixo da VSL foi removida para aproximar o botão do vídeo. O FAQ informa que o jogo inclui um vídeo de instalação, conforme confirmado pelo responsável. O checkout segue pendente. A nova oferta fornecida pelo responsável informa entrega por e-mail e ajuda na instalação; a operação de entrega e suporte precisa estar configurada no provedor de checkout. A página inclui a chamada “Receba no WhatsApp”, identificada como adicional opcional no checkout. A oferta usa o preço de referência de R$ 29,90 informado pelo responsável; R$ 24,90 de economia equivalem a aproximadamente 83% de desconto.
