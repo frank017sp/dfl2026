@@ -24,19 +24,4 @@ document.querySelector('[data-checkout]').addEventListener('click', () => {
 if (typeof config.standardDelivery === 'string' && config.standardDelivery.trim()) {
   document.querySelector('[data-delivery]').textContent = config.standardDelivery;
 }
-const videoUrl = safeHttpsUrl(config.gameplayVideoUrl);
-if (videoUrl) {
-  const video = document.createElement('video');
-  video.controls = true;
-  video.playsInline = true;
-  video.preload = 'metadata';
-  video.src = videoUrl;
-  video.className = 'gameplay-video';
-  video.setAttribute('aria-label', 'Vídeo do DFL 2026');
-  document.querySelector('.video-placeholder').replaceWith(video);
-  document.querySelector('#media-caption').textContent = 'DFL 2026 · veja o jogo em ação.';
-  video.addEventListener('error', () => {
-    document.querySelector('#media-caption').textContent = 'O vídeo não carregou. Tente novamente em instantes.';
-  });
-}
-document.querySelector('#privacy-button').addEventListener('click', () => showInfo('Sua privacidade.', 'Esta página não possui cadastro nem formulário de coleta de dados. Fontes são carregadas pelo Google Fonts e a hospedagem pode registrar dados técnicos de acesso. Ao acessar o checkout, valem também as políticas desse serviço.'));
+document.querySelector('#privacy-button').addEventListener('click', () => showInfo('Sua privacidade.', 'Esta página não possui cadastro nem formulário de coleta de dados. Fontes são carregadas pelo Google Fonts. O vídeo usa o player LiteVideo, que pode receber dados técnicos de acesso. A hospedagem também pode registrar esses dados. Ao acessar o checkout, valem também as políticas desse serviço.'));

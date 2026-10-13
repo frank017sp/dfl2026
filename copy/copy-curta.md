@@ -8,7 +8,7 @@ Logo DFL 26 centralizada. Sem menu e sem botão no cabeçalho.
 Aquele futebol raiz, agora no seu Android.
 Seu time, elenco 2026 e narração em português.
 
-[Vídeo real do jogo — aguardando envio.]
+[VSL vertical em destaque — player LiteVideo fornecido pelo responsável.]
 
 Brasileirão + Europa · Narração PT-BR · Carreira offline
 
@@ -61,4 +61,4 @@ O desejo pelo jogo já aparece nos comentários. A página concentra a atenção
 
 Não há ficha técnica nem números de Android, RAM ou armazenamento na página. Também não há barra fixa inferior, navegação no topo, botão no cabeçalho, blocos longos de persuasão ou promessas de compatibilidade universal.
 
-Vídeo real e checkout seguem pendentes. A arte provisória está identificada como ilustração. A entrega padrão será especificada quando o responsável informar o canal real.
+A VSL fornecida pelo responsável está incorporada em formato vertical 9:16. O checkout segue pendente. A entrega padrão será especificada quando o responsável informar o canal real. O order bump de WhatsApp aparece somente no checkout e não é anunciado nesta página.
