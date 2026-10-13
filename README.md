@@ -25,7 +25,7 @@ Editar `dist/config.js`:
 
 Sem checkout configurado, o botão informa que as vendas estão em preparação. Nenhuma cobrança ou coleta de pagamento é realizada nesta página. A entrega pelo WhatsApp e o adicional precisam ser configurados no provedor de checkout; esta página não automatiza entrega nem processa pagamentos.
 
-A VSL fornecida pelo responsável usa o player LiteVideo, ID `9d1b5afe-7394-47af-9382-d3dc9ff03fd0`, com proporção 9:16 e largura responsiva. O embed está em `dist/index.html` e preserva os atributos enviados pelo responsável. Não há depoimentos inventados, contador de falsa urgência ou garantia de desempenho universal. Por preferência do responsável, não há requisitos numéricos na página; os campos técnicos antigos da configuração não são usados na interface.
+A VSL fornecida pelo responsável usa o player LiteVideo, ID `f68d57f3-cfc0-4a09-93c1-1a9998c371f2`, com proporção quadrada 1:1 e largura responsiva. O embed está em `dist/index.html` e preserva os atributos enviados pelo responsável. Não há depoimentos inventados, contador de falsa urgência ou garantia de desempenho universal. Por preferência do responsável, não há requisitos numéricos na página; os campos técnicos antigos da configuração não são usados na interface.
 
 Antes de abrir as vendas, completar os requisitos, a entrega padrão, os contatos do responsável e as condições de reembolso em `dist/index.html` e no checkout. Não ativar a promessa de entrega imediata pelo WhatsApp sem o fluxo correspondente funcionando. Não há política comercial de garantia presumida.
 
@@ -35,4 +35,4 @@ O arquivo `vercel.json` define site estático, sem build, com saída em `dist/`.
 
 ## Interações e privacidade
 
-Cabeçalho com apenas a logo centralizada, títulos centralizados, VSL vertical, três respostas principais, FAQ expansível e oferta de R$ 5. Não há barra fixa inferior nem anúncios do order bump. Janela de informações com fechamento pelo Escape e botões acessíveis por teclado. Sem formulários, cookies ou analytics próprios. A página usa Google Fonts, o player externo LiteVideo e os registros técnicos normais da hospedagem. O player pode coletar dados técnicos de acesso conforme sua política.
+Cabeçalho com apenas a logo centralizada, títulos centralizados, VSL quadrada, três respostas principais, FAQ expansível e oferta de R$ 5. Não há barra fixa inferior nem anúncios do order bump. Janela de informações com fechamento pelo Escape e botões acessíveis por teclado. Sem formulários, cookies ou analytics próprios. A página usa Google Fonts, o player externo LiteVideo e os registros técnicos normais da hospedagem. O player pode coletar dados técnicos de acesso conforme sua política.
