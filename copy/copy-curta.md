@@ -10,8 +10,6 @@ Carreira e Rumo ao Estrelato pra jogar offline.
 
 [VSL quadrada em destaque — player LiteVideo fornecido pelo responsável.]
 
-Brasileirão + Europa · Narração PT-BR · Carreira offline
-
 **BORA JOGAR POR R$ 5**
 
 Uma vez só. Sem mensalidade.
@@ -30,13 +28,16 @@ Download direto. Sem encurtador te jogando de anúncio em anúncio até você de
 **Onde chega meu jogo?**
 Você recebe o acesso digital. O canal e o prazo de entrega aparecem no checkout, antes de pagar.
 
+Receba no WhatsApp
+Adicional opcional no checkout.
+
 ## Perguntas que ficam recolhidas na página
 
 **Baixei. Preciso de internet pra jogar?**
 Depois da instalação, Carreira e Rumo ao Estrelato funcionam offline. Internet só é necessária pra compra, download e instalação inicial.
 
 **Vou conseguir instalar?**
-A instalação é manual e pode mudar conforme o Android. Baixe todos os arquivos do jogo e siga as etapas da sua versão.
+O jogo já vem com um vídeo de instalação. É só acompanhar o passo a passo pra instalar no seu Android.
 
 **Tem mensalidade?**
 Não. O acesso custa R$ 5, pagos uma única vez.
@@ -61,4 +62,4 @@ O desejo pelo jogo já aparece nos comentários. A página concentra a atenção
 
 Não há ficha técnica nem números de Android, RAM ou armazenamento na página. Também não há barra fixa inferior, navegação no topo, botão no cabeçalho, blocos longos de persuasão ou promessas de compatibilidade universal.
 
-A VSL fornecida pelo responsável está incorporada em formato quadrado 1:1. Os botões usam a mesma chamada e o FAQ explica a instalação sem termos técnicos. O checkout segue pendente. A entrega padrão será especificada quando o responsável informar o canal real. O order bump de WhatsApp fica reservado ao checkout e não é anunciado nesta página.
+A VSL fornecida pelo responsável está incorporada em formato quadrado 1:1. Os botões usam a mesma chamada. A linha de bullets abaixo da VSL foi removida para aproximar o botão do vídeo. O FAQ informa que o jogo inclui um vídeo de instalação, conforme confirmado pelo responsável. O checkout segue pendente. A entrega padrão será especificada quando o responsável informar o canal real. A página inclui a chamada “Receba no WhatsApp”, identificada como adicional opcional no checkout. Não promete suporte individual.

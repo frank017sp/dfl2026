@@ -6,7 +6,8 @@ Página de apresentação e vendas responsiva em português, com HTML, CSS e Jav
 - Copy curta aplicada ao site, baseada nas dúvidas do público: `copy/copy-curta.md`.
 - Material inicial, três headlines, roteiro de vídeo e order bump: `copy/copy-completa.md`.
 - Preço do produto: R$ 5, pagamento único.
-- Adicional exclusivo do checkout: entrega imediata do acesso pelo WhatsApp, R$ 3. Não é anunciado na página de vendas.
+- O jogo acompanha um vídeo de instalação, conforme confirmado pelo responsável.
+- Adicional exclusivo do checkout: entrega imediata do acesso pelo WhatsApp, R$ 3. A página apresenta “Receba no WhatsApp” com identificação de adicional opcional no checkout.
 
 ## Configurar os dados reais
 
@@ -35,4 +36,4 @@ O arquivo `vercel.json` define site estático, sem build, com saída em `dist/`.
 
 ## Interações e privacidade
 
-Cabeçalho com apenas a logo centralizada, títulos centralizados, VSL quadrada, três respostas principais, FAQ expansível e oferta de R$ 5. Não há barra fixa inferior nem anúncios do order bump. Janela de informações com fechamento pelo Escape e botões acessíveis por teclado. Sem formulários, cookies ou analytics próprios. A página usa Google Fonts, o player externo LiteVideo e os registros técnicos normais da hospedagem. O player pode coletar dados técnicos de acesso conforme sua política.
+Cabeçalho com apenas a logo centralizada, títulos centralizados, VSL quadrada, três respostas principais, FAQ expansível e oferta de R$ 5. O botão fica logo abaixo da VSL, sem a antiga linha de bullets. Não há barra fixa inferior. O card de entrega menciona o WhatsApp como adicional opcional no checkout. Janela de informações com fechamento pelo Escape e botões acessíveis por teclado. Sem formulários, cookies ou analytics próprios. A página usa Google Fonts, o player externo LiteVideo e os registros técnicos normais da hospedagem. O player pode coletar dados técnicos de acesso conforme sua política.
