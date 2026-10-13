@@ -28,7 +28,7 @@ Só Android · não é pra iPhone.
 Download direto. Sem encurtador te jogando de anúncio em anúncio até você desistir.
 
 **Onde chega meu jogo?**
-O canal da entrega padrão aparece antes de pagar. Quer receber no WhatsApp? É só adicionar por + R$ 3.
+Você recebe o acesso digital. O canal e o prazo de entrega aparecem no checkout, antes de pagar.
 
 ## Perguntas que ficam recolhidas na página
 
@@ -51,11 +51,6 @@ A narração é em português do Brasil. O idioma dos menus pode variar conforme
 Uma vez só. Sem mensalidade.
 
 **QUERO MEU DFL 2026**
-
-**Quer direto no zap? + R$ 3**
-Receba o acesso imediatamente pelo WhatsApp após a confirmação do pagamento.
-
-Opcional no checkout. Jogo + WhatsApp = **R$ 8 no total.**
 
 Condições de entrega e reembolso informadas antes do pagamento.
 

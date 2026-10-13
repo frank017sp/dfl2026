@@ -22,7 +22,7 @@ document.querySelector('[data-checkout]').addEventListener('click', () => {
   showInfo('O jogo está quase começando.', 'As vendas estão em preparação. O pagamento ainda não está disponível. Volte em breve para conferir seu acesso.');
 });
 if (typeof config.standardDelivery === 'string' && config.standardDelivery.trim()) {
-  document.querySelector('[data-delivery]').textContent = config.standardDelivery + ' Quer receber no WhatsApp? Adicione por + R$ 3 no checkout.';
+  document.querySelector('[data-delivery]').textContent = config.standardDelivery;
 }
 const videoUrl = safeHttpsUrl(config.gameplayVideoUrl);
 if (videoUrl) {
@@ -39,4 +39,4 @@ if (videoUrl) {
     document.querySelector('#media-caption').textContent = 'O vídeo não carregou. Tente novamente em instantes.';
   });
 }
-document.querySelector('#privacy-button').addEventListener('click', () => showInfo('Sua privacidade.', 'Esta página não possui cadastro nem formulário de coleta de dados. Fontes são carregadas pelo Google Fonts e a hospedagem pode registrar dados técnicos de acesso. Ao acessar um checkout ou o WhatsApp, valem também as políticas desses serviços.'));
+document.querySelector('#privacy-button').addEventListener('click', () => showInfo('Sua privacidade.', 'Esta página não possui cadastro nem formulário de coleta de dados. Fontes são carregadas pelo Google Fonts e a hospedagem pode registrar dados técnicos de acesso. Ao acessar o checkout, valem também as políticas desse serviço.'));
