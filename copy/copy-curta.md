@@ -78,4 +78,4 @@ A página não tem numeração nem os títulos extras da referência. Mantém �
 
 O botão sob a VSL inicial usa “Baixar agora”. O botão da oferta usa “QUERO JOGAR AGORA”, com ícone de download, seguindo a nova referência. Ambos ficam centralizados. Não há bullets entre a VSL e seu botão, cabeçalho com CTA, barra fixa inferior ou novos depoimentos. A paleta de futebol nostálgico foi preservada.
 
-O checkout segue pendente. A entrega por e-mail, a ajuda na instalação e o adicional opcional de WhatsApp seguem a oferta fornecida pelo responsável; os fluxos precisam estar configurados no provedor de checkout. O preço de referência de R$ 29,90 foi fornecido pelo responsável; a economia de R$ 24,90 corresponde a aproximadamente 83%.
+Os dois botões abrem https://pay.lowify.com.br/checkout?product_id=dkLHsa. O aviso de vendas em preparação foi removido. A entrega por e-mail, a ajuda na instalação e o adicional opcional de WhatsApp seguem a oferta fornecida pelo responsável; os fluxos são configurados no provedor de checkout. O preço de referência de R$ 29,90 foi fornecido pelo responsável; a economia de R$ 24,90 corresponde a aproximadamente 83%.

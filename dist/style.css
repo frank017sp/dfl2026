@@ -47,7 +47,6 @@ h1 span,h2 span{color:var(--ink)}
 .offer-includes li{display:flex;align-items:flex-start;gap:10px;font-size:13px;line-height:1.5;color:#C6D5E8}
 .offer-includes li:before{content:"✓";color:var(--neon);font-size:14px;font-weight:700;flex-shrink:0}
 .offer-includes strong{font-weight:700;color:var(--ink)}
-.sales-status{color:var(--muted);font-size:10px;margin-top:12px}
 .refund-note{font-size:9px;color:#A9BED8;line-height:1.5;margin-top:19px}
 .footer{border-top:1px solid #1C3B5C;padding-block:21px 24px;display:flex;justify-content:center;gap:18px;align-items:center;flex-wrap:wrap;font-size:10px;color:#A9BED8}
 .footer button:hover{color:var(--ink);text-decoration:underline;text-decoration-color:var(--blue)}

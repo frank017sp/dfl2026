@@ -24,7 +24,7 @@ Editar `dist/config.js`:
 | standardDelivery | Frase completa explicando o canal e prazo reais da entrega padrão de R$ 5 |
 | supportEmail | Reservado para contato, não exibido atualmente |
 
-Sem checkout configurado, o botão informa que as vendas estão em preparação. Nenhuma cobrança ou coleta de pagamento é realizada nesta página. A entrega pelo WhatsApp e o adicional precisam ser configurados no provedor de checkout; esta página não automatiza entrega nem processa pagamentos.
+Os dois botões de compra direcionam para https://pay.lowify.com.br/checkout?product_id=dkLHsa, fornecido pelo responsável. Os links funcionam também sem JavaScript; `checkoutUrl` permite atualizar ambos pela configuração. O aviso e a janela de vendas em preparação foram removidos. Nenhuma cobrança ou coleta de pagamento é realizada nesta página. A entrega pelo WhatsApp e o adicional são configurados no provedor de checkout; esta página não automatiza entrega nem processa pagamentos.
 
 A VSL fornecida pelo responsável usa o player LiteVideo, ID `f68d57f3-cfc0-4a09-93c1-1a9998c371f2`, com proporção quadrada 1:1 e largura responsiva. O embed está em `dist/index.html` e mantém as opções do player fornecidas pelo responsável, com as cores dos controles ajustadas à nova paleta. Não há depoimentos inventados, contador de falsa urgência ou garantia de desempenho universal. Por preferência do responsável, não há requisitos numéricos na página; os campos técnicos antigos da configuração não são usados na interface.
 
@@ -46,4 +46,4 @@ Paleta aplicada: azul estádio `#061A35` na base, azul elétrico `#087CF0` na il
 
 A oferta tem vídeo adicional LiteVideo `def29fd9-1d05-4d64-b580-6693fb06d58d`, título em duas linhas, quadro de preço com recortes, desconto de 83% e botão “QUERO JOGAR AGORA”. A VSL inicial foi preservada. O script do LiteVideo é carregado uma única vez para ambos os players.
 
-O layout está em `dist/offer.css`. O fundo decorativo `dist/assets/offer-stadium.webp` tem cerca de 111 KB. Textos, preço e botão são HTML responsivo. A entrega por WhatsApp continua sendo opcional. O checkout segue pendente, com o comportamento anterior preservado.
+O layout está em `dist/offer.css`. O fundo decorativo `dist/assets/offer-stadium.webp` tem cerca de 111 KB. Textos, preço e botão são HTML responsivo. A entrega por WhatsApp continua sendo opcional. Os dois botões abrem o checkout Lowify informado pelo responsável.

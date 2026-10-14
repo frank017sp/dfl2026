@@ -16,11 +16,9 @@ dialog.addEventListener('click', event => {
   if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) dialog.close();
 });
 const checkout = safeHttpsUrl(config.checkoutUrl);
-document.querySelector('.sales-status').hidden = Boolean(checkout);
-document.querySelector('[data-checkout]').addEventListener('click', () => {
-  if (checkout) { window.location.assign(checkout); return; }
-  showInfo('O jogo está quase começando.', 'As vendas estão em preparação. O pagamento ainda não está disponível. Volte em breve para conferir seu acesso.');
-});
+if (checkout) {
+  document.querySelectorAll('[data-checkout]').forEach(link => { link.href = checkout; });
+}
 if (typeof config.standardDelivery === 'string' && config.standardDelivery.trim()) {
   document.querySelector('[data-delivery]').textContent = config.standardDelivery;
 }

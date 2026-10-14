@@ -41,7 +41,6 @@
 .offer-trust svg{width:44px;height:47px;flex-shrink:0;fill:none;stroke:var(--neon);stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}
 .offer-trust p{font-family:var(--display);font-weight:600;font-size:17px;line-height:1.18;color:var(--ink)}
 .whatsapp-note{margin-top:21px;font-size:10px;color:#C1D1DF}
-.offer-stadium .sales-status{margin-top:10px;font-size:10px;color:#C1D1DF}
 .offer-stadium .refund-note{margin-top:9px;font-size:9px;color:#B5C7DF}
 
 @media(max-width:600px){

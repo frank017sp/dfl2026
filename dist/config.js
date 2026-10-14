@@ -1,5 +1,5 @@
 window.DFL_CONFIG = Object.freeze({
-  checkoutUrl: '',
+  checkoutUrl: 'https://pay.lowify.com.br/checkout?product_id=dkLHsa',
   whatsappNumber: '',
   gameplayVideoUrl: '',
   minimumAndroid: '',
