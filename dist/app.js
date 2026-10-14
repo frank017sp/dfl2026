@@ -17,9 +17,10 @@ dialog.addEventListener('click', event => {
 });
 const checkout = safeHttpsUrl(config.checkoutUrl);
 if (checkout) {
-  document.querySelectorAll('[data-checkout]').forEach(link => { link.href = checkout; });
+  const attributedCheckout = window.DFL_TRACKING?.checkoutUrl(checkout) || checkout;
+  document.querySelectorAll('[data-checkout]').forEach(link => { link.href = attributedCheckout; });
 }
 if (typeof config.standardDelivery === 'string' && config.standardDelivery.trim()) {
   document.querySelector('[data-delivery]').textContent = config.standardDelivery;
 }
-document.querySelector('#privacy-button').addEventListener('click', () => showInfo('Sua privacidade.', 'Esta página não possui cadastro nem formulário de coleta de dados. Fontes são carregadas pelo Google Fonts. O vídeo usa o player LiteVideo, que pode receber dados técnicos de acesso. A hospedagem também pode registrar esses dados. Ao acessar o checkout, valem também as políticas desse serviço.'));
+document.querySelector('#privacy-button').addEventListener('click', () => showInfo('Sua privacidade.', 'Usamos o Pixel da Meta para medir visitas, visualizações do produto e cliques nos botões de compra, ajudando a avaliar os anúncios. A Meta pode receber a URL acessada, identificadores de cookies e dados técnicos do navegador. Os parâmetros da campanha e do clique no anúncio são encaminhados ao checkout para relacionar o acesso à venda. Esta página não tem formulário e não envia nome, e-mail ou telefone ao Pixel. Respeitamos o sinal Global Privacy Control do navegador para desativar o Pixel nesta página. Google Fonts, LiteVideo e a hospedagem também podem receber dados técnicos de acesso. O pagamento e os eventos do checkout são processados pela Lowify, conforme suas políticas.'));
