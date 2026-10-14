@@ -29,23 +29,30 @@ SÓ ANDROID · NÃO É PRA IPHONE
 **Arquivo direto,** sem encurtador e sem anúncio.
 **Ajuda se travar** na instalação.
 
-**DFL 2026 · Acesso digital**
+[Vídeo quadrado enviado pelo responsável, ID def29fd9-1d05-4d64-b580-6693fb06d58d, acima da oferta.]
 
-**PARTIU JOGAR?**
+Veja os **gráficos**, os **times** e a **jogabilidade**.
 
-De ~~R$ 29,90~~ por apenas
+**SUA PRÓXIMA PARTIDA COMEÇA AQUI.**
 
-**R$ 5,00**
+Reviva a emoção do futebol no seu Android
+e entre em campo quando quiser.
 
-**Economize R$ 24,90 · -83%**
+**ACESSO DIGITAL**
 
-Pagamento único. Sem mensalidade.
+De ~~R$ 29,90~~ · **-83%**
 
-**Baixar agora**
+APENAS **R$ 5,00**
 
-**Pagou, chegou: receba no seu e-mail ou WhatsApp.**
+**QUERO JOGAR AGORA**
+
+Pagamento único · Sem mensalidade
+
+- EXCLUSIVO PARA ANDROID
+- RECEBA AS INSTRUÇÕES POR E-MAIL OU WHATSAPP
+- COMPRA SEGURA E SEM COMPLICAÇÃO
+
 WhatsApp disponível como adicional opcional no checkout.
-
 Condições de entrega e reembolso informadas antes do pagamento.
 
 ## Dúvidas frequentes
@@ -67,8 +74,8 @@ A narração é em português do Brasil. O idioma dos menus pode variar conforme
 
 ## Direção da estrutura
 
-A página não tem numeração nem os títulos extras da referência. Mantém “O que está incluído” e “Dúvidas frequentes” centralizados, além da chamada principal e de “Partiu jogar?” na oferta. A VSL real vem antes das explicações. Os sete itens anteriormente dentro da oferta foram distribuídos entre conteúdo incluído e instalação; não são repetidos no bloco de preço. O FAQ encerra a página.
+A página não tem numeração nem os títulos extras da referência. Mantém “O que está incluído” e “Dúvidas frequentes” centralizados, além da chamada principal e de “Sua próxima partida começa aqui” na oferta. A VSL real vem antes das explicações. Os sete itens anteriormente dentro da oferta foram distribuídos entre conteúdo incluído e instalação; não são repetidos no bloco de preço. O FAQ encerra a página.
 
-Os dois botões usam “Baixar agora”, com texto centralizado e sem preço ou seta. Não há bullets entre a VSL e seu botão, cabeçalho com CTA, barra fixa inferior ou novos depoimentos. A paleta de futebol nostálgico foi preservada.
+O botão sob a VSL inicial usa “Baixar agora”. O botão da oferta usa “QUERO JOGAR AGORA”, com ícone de download, seguindo a nova referência. Ambos ficam centralizados. Não há bullets entre a VSL e seu botão, cabeçalho com CTA, barra fixa inferior ou novos depoimentos. A paleta de futebol nostálgico foi preservada.
 
 O checkout segue pendente. A entrega por e-mail, a ajuda na instalação e o adicional opcional de WhatsApp seguem a oferta fornecida pelo responsável; os fluxos precisam estar configurados no provedor de checkout. O preço de referência de R$ 29,90 foi fornecido pelo responsável; a economia de R$ 24,90 corresponde a aproximadamente 83%.

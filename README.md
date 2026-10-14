@@ -36,8 +36,14 @@ O arquivo `vercel.json` define site estático, sem build, com saída em `dist/`.
 
 ## Interações e privacidade
 
-Cabeçalho com apenas a logo centralizada. A página apresenta a chamada principal, VSL quadrada, conteúdo incluído, instalação, oferta de R$ 5 e dúvidas frequentes, sem numeração. Dos títulos extras da estrutura, ficam apenas “O que está incluído” e “Dúvidas frequentes”; a chamada principal e “Partiu jogar?” na oferta permanecem. Os títulos ficam centralizados; os benefícios saíram do bloco da oferta para evitar repetição. O botão fica logo abaixo da VSL, sem a antiga linha de bullets. Não há barra fixa inferior. A oferta e a resposta de entrega no FAQ mencionam o WhatsApp como adicional opcional no checkout. Janela de informações com fechamento pelo Escape e botões acessíveis por teclado. Sem formulários, cookies ou analytics próprios. A página usa Google Fonts, o player externo LiteVideo e os registros técnicos normais da hospedagem. O player pode coletar dados técnicos de acesso conforme sua política.
+Cabeçalho com apenas a logo centralizada. A página apresenta a chamada principal, VSL quadrada, conteúdo incluído, instalação, oferta de R$ 5 e dúvidas frequentes, sem numeração. Dos títulos extras da estrutura, ficam apenas “O que está incluído” e “Dúvidas frequentes”; a chamada principal permanece e a oferta agora usa “Sua próxima partida começa aqui”. Os títulos ficam centralizados; os benefícios saíram do bloco da oferta para evitar repetição. O botão fica logo abaixo da VSL, sem a antiga linha de bullets. Não há barra fixa inferior. A oferta e a resposta de entrega no FAQ mencionam o WhatsApp como adicional opcional no checkout. Janela de informações com fechamento pelo Escape e botões acessíveis por teclado. Sem formulários, cookies ou analytics próprios. A página usa Google Fonts, o player externo LiteVideo e os registros técnicos normais da hospedagem. O player pode coletar dados técnicos de acesso conforme sua política.
 
 ## Identidade visual
 
 Paleta aplicada: azul estádio `#061A35` na base, azul elétrico `#087CF0` na iluminação e detalhes, verde gramado `#078B45` nas marcações e fundos esportivos, verde neon `#B7FF00` nos botões, amarelo torcida `#FFD21F` no título principal, preço e desconto e branco gelo `#F4F7FC` nos títulos e textos principais. A proporção 60/25/10/5 orienta a hierarquia visual, sem controle rígido de área. A VSL concentra as imagens reais do jogo; luzes e gramado são desenhados em CSS, sem novas imagens pesadas.
+
+## Nova oferta inspirada na referência
+
+A oferta tem vídeo adicional LiteVideo `def29fd9-1d05-4d64-b580-6693fb06d58d`, título em duas linhas, quadro de preço com recortes, desconto de 83% e botão “QUERO JOGAR AGORA”. A VSL inicial foi preservada. O script do LiteVideo é carregado uma única vez para ambos os players.
+
+O layout está em `dist/offer.css`. O fundo decorativo `dist/assets/offer-stadium.webp` tem cerca de 111 KB. Textos, preço e botão são HTML responsivo. A entrega por WhatsApp continua sendo opcional. O checkout segue pendente, com o comportamento anterior preservado.

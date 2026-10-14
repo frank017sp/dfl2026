@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+
+.offer-section{width:min(1024px,100%);margin:18px auto 38px;padding:0;text-align:center;background:#02101F;border-block:1px solid #087CF066}
+.offer-preview{padding:36px 24px 25px;background:radial-gradient(ellipse at 50% 30%,#087CF02B,transparent 70%),#031427}
+.offer-preview .video-frame{max-width:560px;padding:7px;border:1px solid #087CF0;border-radius:18px;background:#020A13;box-shadow:0 0 30px #087CF033}
+.offer-preview .video-embed{outline:0;border-radius:11px;overflow:hidden}
+.gameplay-caption{display:flex;justify-content:center;align-items:center;gap:15px;max-width:690px;margin:20px auto 0;padding:10px 16px;border:2px solid #69F51C;border-radius:50px;background:#021323;font-size:21px;line-height:1.4;box-shadow:inset 0 -3px 14px #078B4544}
+.gameplay-caption svg{width:23px;height:32px;flex-shrink:0;fill:none;stroke:var(--neon);stroke-width:2.5;stroke-linecap:round}
+.gameplay-caption strong{color:var(--neon);font-weight:800}
+.offer-stadium{padding:45px 30px 35px;background:linear-gradient(#0013260D,#000B1855),url('assets/offer-stadium.webp') center top/100% 100% no-repeat;border-top:1px solid #087CF0;box-shadow:0 -8px 28px #087CF018}
+.offer-content{max-width:830px;margin:auto}
+.offer-content h2{font-family:'Knewave',Impact,var(--display);font-size:clamp(34px,6.4vw,69px);font-weight:400;line-height:1.24;letter-spacing:-.035em;transform:rotate(-2deg);text-shadow:0 4px 14px #001022;white-space:nowrap}
+.offer-content h2 span{display:block;color:var(--neon);font-size:1.27em;line-height:1.2}
+.offer-intro{margin:21px 0 27px;font-size:25px;line-height:1.3;color:var(--ink);text-shadow:0 2px 10px #001022}
+.price-board{position:relative;max-width:760px;margin:0 auto;padding:2px;background:linear-gradient(135deg,#7FFF24 2%,#D3FF27 16%,#078B45 35%,#B7FF00 62%,#68F544 100%);clip-path:polygon(0 20%,4% 11%,14% 11%,18% 0,84% 0,88% 11%,96% 11%,100% 20%,100% 85%,96% 100%,5% 100%,0 85%);filter:drop-shadow(0 0 14px #B7FF0033)}
+.price-board-inner{display:grid;grid-template-columns:41% 59%;align-items:center;min-height:222px;padding:52px 25px 22px;clip-path:polygon(0 20%,4% 11%,14% 11%,18% 0,84% 0,88% 11%,96% 11%,100% 20%,100% 85%,96% 100%,5% 100%,0 85%);background:radial-gradient(ellipse at 60% 120%,#078B45A6,transparent 50%),linear-gradient(140deg,#06213A,#020C19 65%)}
+.access-label{position:absolute;z-index:1;top:8px;left:22%;right:22%;display:flex;align-items:center;justify-content:center;gap:20px;font-family:var(--display);color:var(--neon);font-size:27px;line-height:1.2;font-weight:800;letter-spacing:4px;white-space:nowrap}
+.access-label:before,.access-label:after{content:'';height:1px;width:35px;background:linear-gradient(90deg,transparent,var(--neon),transparent)}
+.previous-price{padding:9px 15px 9px 0;border-right:1px solid var(--neon)}
+.previous-price p{position:relative;display:inline-block;font-size:30px;line-height:1.3;color:#E0E9F2;white-space:nowrap}
+.previous-price p:after{content:'';position:absolute;left:-6px;right:-6px;top:55%;height:2px;background:#FF3546;transform:rotate(-5deg)}
+.previous-price p>span{font-family:var(--display);font-size:23px;font-weight:700}
+.previous-price del{text-decoration:none}
+.discount-badge{display:table;margin:15px auto 0;min-width:110px;padding:2px 18px;border:1px solid #8AFF2F;border-radius:17px 4px;color:var(--neon);font-family:var(--display);font-weight:800;font-size:34px;line-height:1.2}
+.current-price{min-width:0;color:var(--neon);font-family:var(--display)}
+.current-price>p{font-size:27px;line-height:1;font-weight:800;letter-spacing:2px;margin:0 0 1px 15px}
+.offer-price{display:flex;justify-content:center;align-items:flex-start;line-height:.88;font-weight:800;text-shadow:0 2px 0 #5AA208}
+.offer-price .currency{font-size:47px;line-height:1;margin:13px 8px 0 0}
+.offer-price strong{font-size:154px;line-height:.86;font-weight:900;letter-spacing:-6px}
+.offer-price .cents{font-size:97px;line-height:.92;font-weight:900;letter-spacing:-4px}
+.offer-buy{display:flex;justify-content:center;gap:18px;width:100%;max-width:760px;min-width:0;min-height:92px;margin:22px auto 0;padding:18px;border:2px solid #E3FF35;border-radius:7px;color:#021427;background:linear-gradient(110deg,#C4FF3E,#70F50A 50%,#BDFF00);box-shadow:0 0 27px #60FF0755,inset 0 2px 0 #FFFFFF80;font-family:var(--display);font-weight:900;text-align:center}
+.offer-buy>span{font-size:41px;line-height:1.1;letter-spacing:.01em}
+.offer-buy>svg{width:39px;height:44px;flex-shrink:0}
+.offer-buy>svg path{fill:none;stroke:var(--neon);stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}
+.offer-buy:hover{background:linear-gradient(110deg,#D3FF70,#9EFF20);box-shadow:0 0 36px #60FF0777}
+.offer-payment{margin-top:17px;font-family:var(--display);font-size:23px;line-height:1.4;color:var(--ink)}
+.offer-payment span{color:var(--neon);padding-inline:4px}
+.offer-trust{display:grid;grid-template-columns:1fr 1.35fr 1fr;margin-top:24px;padding-top:26px;border-top:1px solid #B7FF0055;text-align:left}
+.offer-trust>div{display:flex;align-items:center;justify-content:center;gap:16px;padding:0 14px}
+.offer-trust>div+div{border-left:1px solid #B7FF0055}
+.offer-trust svg{width:44px;height:47px;flex-shrink:0;fill:none;stroke:var(--neon);stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}
+.offer-trust p{font-family:var(--display);font-weight:600;font-size:17px;line-height:1.18;color:var(--ink)}
+.whatsapp-note{margin-top:21px;font-size:10px;color:#C1D1DF}
+.offer-stadium .sales-status{margin-top:10px;font-size:10px;color:#C1D1DF}
+.offer-stadium .refund-note{margin-top:9px;font-size:9px;color:#B5C7DF}
+
+@media(max-width:600px){
+  .offer-section{margin-block:12px 28px}
+  .offer-preview{padding:24px 17px 20px}
+  .offer-preview .video-frame{padding:4px;border-radius:13px}
+  .offer-preview .video-embed{border-radius:8px}
+  .gameplay-caption{gap:8px;margin-top:15px;padding:9px 12px;font-size:13px;border-width:1.5px}
+  .gameplay-caption svg{width:17px;height:25px}
+  .offer-stadium{padding:33px 17px 27px}
+  .offer-content h2{font-size:clamp(24px,6.8vw,40px);letter-spacing:-.035em}
+  .offer-content h2 span{font-size:1.27em;line-height:1.28}
+  .offer-intro{margin:16px 0 23px;font-size:15px;line-height:1.4}
+  .price-board-inner{grid-template-columns:41% 59%;min-height:146px;padding:40px 10px 17px}
+  .access-label{top:7px;left:19%;right:19%;gap:8px;font-size:17px;letter-spacing:2px}
+  .access-label:before,.access-label:after{width:16px}
+  .previous-price{padding:5px 9px 5px 0}
+  .previous-price p{font-size:19px}
+  .previous-price p>span{font-size:15px}
+  .discount-badge{font-size:25px;margin-top:11px;padding:2px 12px;min-width:79px;border-radius:12px 3px}
+  .current-price>p{font-size:18px;letter-spacing:1px;margin:0 0 4px 9px}
+  .offer-price .currency{font-size:26px;margin:8px 3px 0 0}
+  .offer-price strong{font-size:91px;letter-spacing:-3px}
+  .offer-price .cents{font-size:55px;letter-spacing:-2px}
+  .offer-buy{min-height:65px;margin-top:17px;gap:12px;padding:13px 10px;border-radius:5px}
+  .offer-buy>span{font-size:27px;letter-spacing:0}
+  .offer-buy>svg{width:27px;height:31px}
+  .offer-payment{font-size:17px;margin-top:13px}
+  .offer-trust{margin-top:20px;padding-top:20px;grid-template-columns:1fr 1.25fr 1fr}
+  .offer-trust>div{flex-direction:column;gap:8px;padding:0 6px;text-align:center}
+  .offer-trust svg{width:29px;height:32px}
+  .offer-trust p{font-size:11px;line-height:1.25}
+  .whatsapp-note{margin-top:17px;font-size:9px}
+}
+@media(max-width:359px){
+  .offer-price strong{font-size:78px}.offer-price .cents{font-size:48px}.offer-price .currency{font-size:22px}
+  .previous-price p{font-size:17px}.previous-price p>span{font-size:13px}
+  .offer-buy>span{font-size:24px}.offer-intro{font-size:14px}
+}
