@@ -5,7 +5,8 @@ checkout destinations, Pixel configuration and tracking code.
 
 - Barlow, Barlow Condensed and Knewave are served locally in WOFF2 format with the
   original weights and Unicode subsets. OFL licenses are in `dist/assets/fonts`.
-- The heading and body fonts are preloaded. Font filenames contain content hashes
+- The heading and body fonts used at the top of the page are embedded directly in
+  the HTML, avoiding a font-swap delay. Other font filenames contain content hashes
   and can be cached for one year without serving outdated replacements.
 - Styles are embedded in the HTML to remove the stylesheet → Google Fonts
   request chain. Source stylesheets remain editable in `dist`.
