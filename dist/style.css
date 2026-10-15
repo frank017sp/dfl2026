@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700;800;900&family=Barlow:wght@400;500;600;700;800&display=swap');
 :root{--bg:#061A35;--panel:#092447;--ink:#F4F7FC;--muted:#B5C7DF;--blue:#087CF0;--green:#078B45;--neon:#B7FF00;--yellow:#FFD21F;--line:#244262;--display:'Barlow Condensed','Arial Narrow',Impact,sans-serif;--body:'Barlow',Arial,sans-serif;color-scheme:dark}
 
 *{box-sizing:border-box}
