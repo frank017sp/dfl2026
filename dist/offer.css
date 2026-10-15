@@ -1,11 +1,5 @@
 
 .offer-section{width:min(1024px,100%);margin:18px auto 38px;padding:0;text-align:center;background:#02101F;border-block:1px solid #087CF066}
-.offer-preview{padding:36px 24px 25px;background:radial-gradient(ellipse at 50% 30%,#087CF02B,transparent 70%),#031427}
-.offer-preview .video-frame{max-width:560px;padding:7px;border:1px solid #087CF0;border-radius:18px;background:#020A13;box-shadow:0 0 30px #087CF033}
-.offer-preview .video-embed{outline:0;border-radius:11px;overflow:hidden}
-.gameplay-caption{display:flex;justify-content:center;align-items:center;gap:15px;max-width:690px;margin:20px auto 0;padding:10px 16px;border:2px solid #69F51C;border-radius:50px;background:#021323;font-size:21px;line-height:1.4;box-shadow:inset 0 -3px 14px #078B4544}
-.gameplay-caption svg{width:23px;height:32px;flex-shrink:0;fill:none;stroke:var(--neon);stroke-width:2.5;stroke-linecap:round}
-.gameplay-caption strong{color:var(--neon);font-weight:800}
 .offer-stadium{padding:45px 30px 35px;background:linear-gradient(#0013260D,#000B1855),url('assets/offer-stadium.webp') center top/100% 100% no-repeat;border-top:1px solid #087CF0;box-shadow:0 -8px 28px #087CF018}
 .offer-content{max-width:830px;margin:auto}
 .offer-content h2{font-family:'Knewave',Impact,var(--display);font-size:clamp(34px,6.4vw,69px);font-weight:400;line-height:1.24;letter-spacing:-.035em;transform:rotate(-2deg);text-shadow:0 4px 14px #001022;white-space:nowrap}
@@ -44,11 +38,6 @@
 
 @media(max-width:600px){
   .offer-section{margin-block:12px 28px}
-  .offer-preview{padding:24px 17px 20px}
-  .offer-preview .video-frame{padding:4px;border-radius:13px}
-  .offer-preview .video-embed{border-radius:8px}
-  .gameplay-caption{gap:8px;margin-top:15px;padding:9px 12px;font-size:13px;border-width:1.5px}
-  .gameplay-caption svg{width:17px;height:25px}
   .offer-stadium{padding:33px 17px 27px}
   .offer-content h2{font-size:clamp(24px,6.8vw,40px);letter-spacing:-.035em}
   .offer-content h2 span{font-size:1.27em;line-height:1.28}

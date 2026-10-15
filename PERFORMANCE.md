@@ -1,7 +1,8 @@
 # Performance update
 
-The page keeps its original content, layout, CSS declarations, video IDs/options,
-checkout destinations, Pixel configuration and tracking code.
+The performance update preserves the page design, checkout destinations, Pixel
+configuration and tracking code. The second video and its caption were later
+removed at the owner's request; the main video keeps its original embed/options.
 
 - Barlow, Barlow Condensed and Knewave are served locally in WOFF2 format with the
   original weights and Unicode subsets. OFL licenses are in `dist/assets/fonts`.
@@ -10,10 +11,9 @@ checkout destinations, Pixel configuration and tracking code.
   and can be cached for one year without serving outdated replacements.
 - Styles are embedded in the HTML to remove the stylesheet → Google Fonts
   request chain. Source stylesheets remain editable in `dist`.
-- Only the second LiteVideo element is deferred. `video.js` mounts the original
-  embed 300 px before its container enters the viewport. The square container
-  reserves its original dimensions; old browsers without IntersectionObserver
-  load it immediately. The first video keeps its original embed and loader.
+- The landing page now contains only the main LiteVideo element and its loader.
+  The second video was moved to checkout by the owner; its landing-page embed,
+  caption, unused styles and deferred loader have been removed.
 
 After CSS edits, regenerate embedded styles:
 
