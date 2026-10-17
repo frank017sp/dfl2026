@@ -34,7 +34,7 @@ test('production records one PageView and ViewContent using the Lowify product a
   assert.deepEqual(b.events().map(e => e[2]), ['PageView', 'ViewContent']);
   assert.equal(b.events()[1][1], '814178168360082');
   assert.equal(b.events()[1][3].content_ids[0], '63073');
-  assert.equal(b.events()[1][3].value, 5);
+  assert.equal(b.events()[1][3].value, 6.9);
   assert.equal(b.events()[1][3].currency, 'BRL');
   vm.runInContext(source, b.context);
   b.documentEvents.visibilitychange();
