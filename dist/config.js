@@ -4,7 +4,7 @@ window.DFL_CONFIG = Object.freeze({
   trackingHosts: ['jogueagora.vercel.app'],
   productId: '63073',
   productName: 'DFL 2026 ATUALIZADO',
-  productValue: 5,
+  productValue: 6.9,
   currency: 'BRL',
   whatsappNumber: '',
   gameplayVideoUrl: '',
