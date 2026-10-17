@@ -1,5 +1,5 @@
 window.DFL_CONFIG = Object.freeze({
-  checkoutUrl: 'https://pay.lowify.com.br/checkout?product_id=dkLHsa',
+  checkoutUrl: 'https://link.syncpayments.com.br/qa2ff0',
   metaPixelId: '814178168360082',
   trackingHosts: ['jogueagora.vercel.app'],
   productId: '63073',
