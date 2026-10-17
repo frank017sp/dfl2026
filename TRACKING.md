@@ -16,7 +16,7 @@ Produto Lowify: `63073`; código público do checkout: `dkLHsa`.
 
 O checkout já envia PageView e InitiateCheckout; não repetimos InitiateCheckout no site. O site nunca envia Purchase, AddToCart ou AddPaymentInfo. Parâmetros `status=paid`, `value` e similares na URL não geram compras. Gerar um Pix não é uma venda aprovada.
 
-O conteúdo usa `content_ids: ['63073']`, alinhado ao ID interno enviado pela Lowify, `currency: 'BRL'` e `value: 5`. O valor de Purchase deve ser o valor bruto efetivamente aprovado pela Lowify, incluindo adicional quando comprado; a taxa da plataforma não deve ser descontada do faturamento enviado à Meta.
+O conteúdo usa `content_ids: ['63073']`, alinhado ao ID interno enviado pela Lowify, `currency: 'BRL'` e `value: 6.9`. O valor de Purchase deve ser o valor bruto efetivamente aprovado pela Lowify, incluindo adicional quando comprado; a taxa da plataforma não deve ser descontada do faturamento enviado à Meta.
 
 ## Atribuição e privacidade
 
